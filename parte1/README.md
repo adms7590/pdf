@@ -1,1508 +1,1756 @@
-Here is the corrected JSON:
 [
    {
       "codigo":888135002430,
-      "descripcion":"165/70R13TRIANGLETR92879T",
+      "medida":"165/70R13",
+      "modelo":"TRIANGLETR92879T",
       "disponible":1,
       "preciodolares":55
    },
    {
       "codigo":51342185412,
-      "descripcion":"165/70R13GENERALALTIMAXXP779T",
+      "medida":"165/70R13",
+      "modelo":"GENERALALTIMAXXP779T",
       "disponible":8,
       "preciodolares":72
    },
    {
       "codigo":"16570R13FTMH",
-      "descripcion":"165/70R13FIRESTONEMULTIHAWK",
+      "medida":"165/70R13",
+      "modelo":"FIRESTONEMULTIHAWK",
       "disponible":4,
       "preciodolares":68
    },
    {
       "codigo":5900532302083,
-      "descripcion":"175/70R13FUJISAKIFJ30082H",
+      "medida":"175/70R13",
+      "modelo":"FUJISAKIFJ30082H",
       "disponible":2,
       "preciodolares":55
    },
    {
       "codigo":51342184217,
-      "descripcion":"175/70R13CONTINENTALPOWERCONTACT282T",
+      "medida":"175/70R13",
+      "modelo":"CONTINENTALPOWERCONTACT282T",
       "disponible":0,
       "preciodolares":70
    },
    {
       "codigo":888135002454,
-      "descripcion":"175/70R13TRIANGLETR92882H",
+      "medida":"175/70R13",
+      "modelo":"TRIANGLETR92882H",
       "disponible":0,
       "preciodolares":55
    },
    {
       "codigo":"17570R13P1",
-      "descripcion":"175/70R13PIRELLICINTURATOP1",
+      "medida":"175/70R13",
+      "modelo":"PIRELLICINTURATOP1",
       "disponible":1,
       "preciodolares":70
    },
    {
       "codigo":"17570R13FTMH",
-      "descripcion":"175/70R13FIRESTONEMULTIHAWK",
+      "medida":"175/70R13",
+      "modelo":"FIRESTONEMULTIHAWK",
       "disponible":0,
       "preciodolares":70
    },
    {
       "codigo":8808956238209,
-      "descripcion":"165/65R14KUMHOECOWINGES3179T",
+      "medida":"165/65R14",
+      "modelo":"KUMHOECOWINGES3179T",
       "disponible":8,
       "preciodolares":60
    },
    {
       "codigo":6959655416435,
-      "descripcion":"175/65R14SAILUNATREZZOECO86TXL",
+      "medida":"175/65R14",
+      "modelo":"SAILUNATREZZOECO86TXL",
       "disponible":0,
       "preciodolares":60
    },
    {
       "codigo":888135014402,
-      "descripcion":"175/65R14TRIANGLETE30186H",
+      "medida":"175/65R14",
+      "modelo":"TRIANGLETE30186H",
       "disponible":0,
       "preciodolares":60
    },
    {
       "codigo":51342184224,
-      "descripcion":"175/65R14CONTINENTALPOWERCONTACT282H",
+      "medida":"175/65R14",
+      "modelo":"CONTINENTALPOWERCONTACT282H",
       "disponible":0,
       "preciodolares":80
    },
    {
       "codigo":"17565R14P400",
-      "descripcion":"175/65R14PIRELLIP400EVO82H",
+      "medida":"175/65R14",
+      "modelo":"PIRELLIP400EVO82H",
       "disponible":0,
       "preciodolares":50
    },
    {
       "codigo":"17565R14FTMH",
-      "descripcion":"175/65R14FIRESTONEMULTIHAWK",
+      "medida":"175/65R14",
+      "modelo":"FIRESTONEMULTIHAWK",
       "disponible":0,
       "preciodolares":80
    },
    {
       "codigo":51342179077,
-      "descripcion":"185/60R14GENERALG-MAXRS82H",
+      "medida":"185/60R14",
+      "modelo":"GENERALG-MAXRS82H",
       "disponible":2,
       "preciodolares":80
    },
    {
       "codigo":8808956238285,
-      "descripcion":"185/60R14KUMHOECOWINGES3182H",
+      "medida":"185/60R14",
+      "modelo":"KUMHOECOWINGES3182H",
       "disponible":48,
       "preciodolares":55
    },
    {
       "codigo":6959753214667,
-      "descripcion":"185/60R14TRIANGLETE30182H",
+      "medida":"185/60R14",
+      "modelo":"TRIANGLETE30182H",
       "disponible":1,
       "preciodolares":65
    },
    {
       "codigo":"18560R14FTFH",
-      "descripcion":"185/60R14FIRESTONEFIREHAWK",
+      "medida":"185/60R14",
+      "modelo":"FIRESTONEFIREHAWK",
       "disponible":0,
       "preciodolares":95
    },
    {
       "codigo":51342184279,
-      "descripcion":"185/65R14CONTINENTALPOWERCONTACT286H",
+      "medida":"185/65R14",
+      "modelo":"CONTINENTALPOWERCONTACT286H",
       "disponible":1,
       "preciodolares":85
    },
    {
       "codigo":5900532302175,
-      "descripcion":"185/65R14FUJISAKIFJ30086H",
+      "medida":"185/65R14",
+      "modelo":"FUJISAKIFJ30086H",
       "disponible":10,
       "preciodolares":45
    },
    {
       "codigo":51342185474,
-      "descripcion":"185/65R14GENERALALTIMAXXP-786T",
+      "medida":"185/65R14",
+      "modelo":"GENERALALTIMAXXP-786T",
       "disponible":3,
       "preciodolares":75
    },
    {
       "codigo":8808956238308,
-      "descripcion":"185/65R14KUMHOECOWINGES3186T",
+      "medida":"185/65R14",
+      "modelo":"KUMHOECOWINGES3186T",
       "disponible":64,
       "preciodolares":55
    },
    {
       "codigo":888135002607,
-      "descripcion":"185/65R14TRIANGLETR92886H",
+      "medida":"185/65R14",
+      "modelo":"TRIANGLETR92886H",
       "disponible":0,
       "preciodolares":50
    },
    {
       "codigo":"18565R14FTFH",
-      "descripcion":"185/65R14FIRESTONEFIREHAWK",
+      "medida":"185/65R14",
+      "modelo":"FIRESTONEFIREHAWK",
       "disponible":0,
       "preciodolares":95
    },
    {
       "codigo":6901532203126,
-      "descripcion":"185/70R14DELINTEDH288H",
+      "medida":"185/70R14",
+      "modelo":"DELINTEDH288H",
       "disponible":6,
       "preciodolares":65
    },
    {
       "codigo":"19575R14SEI",
-      "descripcion":"195/75R14SEIBERLING500",
+      "medida":"195/75R14",
+      "modelo":"SEIBERLING500",
       "disponible":4,
       "preciodolares":90
    },
    {
       "codigo":51342231607,
-      "descripcion":"195/R14CCONTINENTALVANCONTACTAP106/104Q",
+      "medida":"195/R14C",
+      "modelo":"CONTINENTALVANCONTACTAP106/104Q",
       "disponible":1,
       "preciodolares":150
    },
    {
       "codigo":6900532151475,
-      "descripcion":"195/R14CLANDSAILLSV888PR",
+      "medida":"195/R14C",
+      "modelo":"LANDSAILLSV888PR",
       "disponible":2,
       "preciodolares":105
    },
    {
       "codigo":6901532420516,
-      "descripcion":"195R14CDELINTEDV2106/104R",
+      "medida":"195R14C",
+      "modelo":"DELINTEDV2106/104R",
       "disponible":-1,
       "preciodolares":105
    },
    {
       "codigo":29142364702,
-      "descripcion":"235/60R14MASTERCRAFTAVENGERGT90T",
+      "medida":"235/60R14",
+      "modelo":"MASTERCRAFTAVENGERGT90T",
       "disponible":0,
       "preciodolares":145
    },
    {
       "codigo":"2356014FTFI",
-      "descripcion":"235/60R14FIRESTONEFIREHAWK",
+      "medida":"235/60R14",
+      "modelo":"FIRESTONEFIREHAWK",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":8808956238346,
-      "descripcion":"185/60R15KUMHOECOWINGES3184T",
+      "medida":"185/60R15",
+      "modelo":"KUMHOECOWINGES3184T",
       "disponible":0,
       "preciodolares":75
    },
    {
       "codigo":51342194421,
-      "descripcion":"185/60R15GENERALALTIMAXXP-7",
+      "medida":"185/60R15",
+      "modelo":"GENERALALTIMAXXP-7",
       "disponible":1,
       "preciodolares":80
    },
    {
       "codigo":8808956154103,
-      "descripcion":"185/60R15KUMHOSOLUSTA1184T",
+      "medida":"185/60R15",
+      "modelo":"KUMHOSOLUSTA1184T",
       "disponible":1,
       "preciodolares":75
    },
    {
       "codigo":1955800,
-      "descripcion":"185/60R15PIRELLICINTURATOP188HXL(PRO)",
+      "medida":"185/60R15",
+      "modelo":"PIRELLICINTURATOP188HXL(PRO)",
       "disponible":10,
       "preciodolares":75
    },
    {
       "codigo":8808956238391,
-      "descripcion":"185/65R15KUMHOECOWINGES3188T",
+      "medida":"185/65R15",
+      "modelo":"KUMHOECOWINGES3188T",
       "disponible":1,
       "preciodolares":60
    },
    {
       "codigo":88089556219741,
-      "descripcion":"185/65R15KUMHOECOWINGKH2788H",
-      "disponible":0,
+      "medida":"185/65R15",
+      "modelo":"KUMHOECOWINGKH2788H",
+      "disponible":0
+
+,
       "preciodolares":75
    },
    {
       "codigo":3528701766386,
-      "descripcion":"185/65R15MICHELINENERGYXM2+88H",
+      "medida":"185/65R15",
+      "modelo":"MICHELINENERGYXM2+88H",
       "disponible":0,
       "preciodolares":100
    },
    {
       "codigo":5900532302458,
-      "descripcion":"195/50R15FUJISAKIFJ60082V",
+      "medida":"195/50R15",
+      "modelo":"FUJISAKIFJ60082V",
       "disponible":0,
       "preciodolares":70
    },
    {
       "codigo":8808956153489,
-      "descripcion":"195/50R15KUMHOECSTAHS5182V",
+      "medida":"195/50R15",
+      "modelo":"KUMHOECSTAHS5182V",
       "disponible":0,
       "preciodolares":80
    },
    {
       "codigo":5909536620468,
-      "descripcion":"195/50R15MEMBATPASSIONM82V",
+      "medida":"195/50R15",
+      "modelo":"MEMBATPASSIONM82V",
       "disponible":1,
       "preciodolares":65
    },
    {
       "codigo":5900532302465,
-      "descripcion":"195/55R15FUJIS
-
-AKIFJ60085V",
+      "medida":"195/55R15",
+      "modelo":"FUJISAKIFJ60085V",
       "disponible":3,
       "preciodolares":80
    },
    {
       "codigo":51342179138,
-      "descripcion":"195/55R15GENERALG-MAXRS",
+      "medida":"195/55R15",
+      "modelo":"GENERALG-MAXRS",
       "disponible":6,
       "preciodolares":90
    },
    {
       "codigo":8808956148546,
-      "descripcion":"195/55R15KUMHOECOWINGES0185H",
+      "medida":"195/55R15",
+      "modelo":"KUMHOECOWINGES0185H",
       "disponible":1,
       "preciodolares":75
    },
    {
       "codigo":2733500,
-      "descripcion":"195/55R15PIRELLICINTURATOP185V",
+      "medida":"195/55R15",
+      "modelo":"PIRELLICINTURATOP185V",
       "disponible":0,
       "preciodolares":105
    },
    {
       "codigo":51342179145,
-      "descripcion":"195/60R15GENERALG-MAXRS88H",
+      "medida":"195/60R15",
+      "modelo":"GENERALG-MAXRS88H",
       "disponible":9,
       "preciodolares":95
    },
    {
       "codigo":51342184323,
-      "descripcion":"195/60R15CONTINENTALPOWERCONTACT288H",
+      "medida":"195/60R15",
+      "modelo":"CONTINENTALPOWERCONTACT288H",
       "disponible":0,
       "preciodolares":95
    },
    {
       "codigo":8808956238414,
-      "descripcion":"195/60R15KUMHOECOWINGES3188H",
+      "medida":"195/60R15",
+      "modelo":"KUMHOECOWINGES3188H",
       "disponible":65,
       "preciodolares":68
    },
    {
       "codigo":6959655416794,
-      "descripcion":"195/60R15SAILUNATREZZOELITE",
+      "medida":"195/60R15",
+      "modelo":"SAILUNATREZZOELITE",
       "disponible":5,
       "preciodolares":75
    },
    {
       "codigo":3528700037180,
-      "descripcion":"195/60R15MICHELINENERGYXM2+88V",
+      "medida":"195/60R15",
+      "modelo":"MICHELINENERGYXM2+88V",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":2255500,
-      "descripcion":"195/60R15PIRELLICINTURATOP188H",
+      "medida":"195/60R15",
+      "modelo":"PIRELLICINTURATOP188H",
       "disponible":0,
       "preciodolares":90
    },
    {
       "codigo":888135004335,
-      "descripcion":"195/60R15TRIANGLETR97888H",
+      "medida":"195/60R15",
+      "modelo":"TRIANGLETR97888H",
       "disponible":0,
       "preciodolares":70
    },
    {
       "codigo":"19560R15FIFH",
-      "descripcion":"195/60R15FIRESTONEFIREHAWK950",
+      "medida":"195/60R15",
+      "modelo":"FIRESTONEFIREHAWK950",
       "disponible":0,
       "preciodolares":100
    },
    {
       "codigo":51342185559,
-      "descripcion":"195/65R15GENERALALTIMAXXP-7",
+      "medida":"195/65R15",
+      "modelo":"GENERALALTIMAXXP-7",
       "disponible":2,
       "preciodolares":95
    },
    {
       "codigo":51342201839,
-      "descripcion":"195/65R15CONTINENTALPREMIUNCONTAC691H",
+      "medida":"195/65R15",
+      "modelo":"CONTINENTALPREMIUNCONTAC691H",
       "disponible":0,
       "preciodolares":100
    },
    {
       "codigo":8808956238421,
-      "descripcion":"195/65R15KUMHOECOWINGES3191H",
+      "medida":"195/65R15",
+      "modelo":"KUMHOECOWINGES3191H",
       "disponible":65,
       "preciodolares":70
    },
    {
       "codigo":3528709566025,
-      "descripcion":"195/65R15MICHELINPRIMACY491H",
+      "medida":"195/65R15",
+      "modelo":"MICHELINPRIMACY491H",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":"19565R15FIFH",
-      "descripcion":"195/65R15FIRESTONEFIREHAWK",
+      "medida":"195/65R15",
+      "modelo":"FIRESTONEFIREHAWK",
       "disponible":0,
       "preciodolares":100
    },
    {
       "codigo":888135000702,
-      "descripcion":"195R15CTRIANGLETR6458PR106/104S",
+      "medida":"195R15C",
+      "modelo":"TRIANGLETR6458PR106/104S",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":1698900,
-      "descripcion":"205/65R15PIRELLISCORPIONATR94H-S",
+      "medida":"205/65R15",
+      "modelo":"PIRELLISCORPIONATR94H-S",
       "disponible":0,
       "preciodolares":125
    },
    {
       "codigo":6939801759715,
-      "descripcion":"205/65R15ROADCRUZARA-1100A/T94H",
+      "medida":"205/65R15",
+      "modelo":"ROADCRUZARA-1100A/T94H",
       "disponible":0,
       "preciodolares":120
    },
    {
       "codigo":"20570R15FDVHT",
-      "descripcion":"205/70R15FIRESTONEDESTINATIONVH/T",
+      "medida":"205/70R15",
+      "modelo":"FIRESTONEDESTINATIONVH/T",
       "disponible":1,
       "preciodolares":135
    },
    {
       "codigo":828714329053,
-      "descripcion":"205/70R15SAILUNATREZZOTOURXLS",
+      "medida":"205/70R15",
+      "modelo":"SAILUNATREZZOTOURXLS",
       "disponible":0,
       "preciodolares":90
    },
    {
       "codigo":8808956290504,
-      "descripcion":"205/70R15KUMHOECOWINGES3396H",
+      "medida":"205/70R15",
+      "modelo":"KUMHOECOWINGES3396H",
       "disponible":17,
       "preciodolares":88
    },
    {
       "codigo":51342224494,
-      "descripcion":"205/75R15GENERALGRABBERA/TX97S",
+      "medida":"205/75R15",
+      "modelo":"GENERALGRABBERA/TX97S",
       "disponible":2,
       "preciodolares":130
    },
    {
       "codigo":"21575R15FDAT",
-      "descripcion":"215/75R15FIRESTONEDESTINATION",
+      "medida":"215/75R15",
+      "modelo":"FIRESTONEDESTINATION",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":"21585R15FTRA",
-      "descripcion":"215/85R15FIRESTONEALLTRACIONND6PR",
+      "medida":"215/85R15",
+      "modelo":"FIRESTONEALLTRACIONND6PR",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":51342183425,
-      "descripcion":"225/70R15CONTINENTALVANCONTACTAP",
+      "medida":"225/70R15",
+      "modelo":"CONTINENTALVANCONTACTAP",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":8808956157029,
-      "descripcion":"235/70R15KUMHOSOLUSTA11103T",
+      "medida":"235/70R15",
+      "modelo":"KUMHOSOLUSTA11103T",
       "disponible":0,
       "preciodolares":115
    },
    {
       "codigo":"23570R15FTAF",
-      "descripcion":"235/70R15FIRESTONEAFFINITI",
+      "medida":"235/70R15",
+      "modelo":"FIRESTONEAFFINITI",
       "disponible":0,
       "preciodolares":135
    },
    {
       "codigo":51342019762,
-      "descripcion":"235/75R15CONTINENTALTERRAINCONTACTAT50",
+      "medida":"235/75R15",
+      "modelo":"CONTINENTALTERRAINCONTACTAT50",
       "disponible":4,
       "preciodolares":165
    },
    {
       "codigo":51342224661,
-      "descripcion":"235/75R15GENERALGRABBERA/TXLT",
+      "medida":"235/75R15",
+      "modelo":"GENERALGRABBERA/TXLT",
       "disponible":0,
       "preciodolares":165
    },
    {
       "codigo":8808956317591,
-      "descripcion":"235/75R15KUMHOROADVENTUREAT51LT",
+      "medida":"235/75R15",
+      "modelo":"KUMHOROADVENTUREAT51LT",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":8808956150532,
-      "descripcion":"235/75R15KUMHOROADVENTUREAT51LT",
-      "disponible":1,
+      "medida":"235/75R15",
+      "modelo":"KUMHOROADVENTUREAT51LT",
+      "dispon
+
+ible":1,
       "preciodolares":110
    },
    {
       "codigo":"23575R15BEALLT",
-      "descripcion":"235/75R15BLACKEAGLEALLTRAC",
+      "medida":"235/75R15",
+      "modelo":"BLACKEAGLEALLTRAC",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":"23575R15SUAT",
-      "descripcion":"235/75R15SUMAXXALLTERRAINT/A109T",
+      "medida":"235/75R15",
+      "modelo":"SUMAXXALLTERRAINT/A109T",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":5900532302298,
-      "descripcion":"235/75R15FUJISAKIFJ-02109SXL",
+      "medida":"235/75R15",
+      "modelo":"FUJISAKIFJ-02109SXL",
       "disponible":0,
       "preciodolares":120
    },
    {
       "codigo":"23575R15FD",
-      "descripcion":"235/75R15FIRESTONEDESTINATION",
+      "medida":"235/75R15",
+      "modelo":"FIRESTONEDESTINATION",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":8808956031220,
-      "descripcion":"295/50R15KUMHOECSTASTXKL12108H",
+      "medida":"295/50R15",
+      "modelo":"KUMHOECSTASTXKL12108H",
       "disponible":4,
       "preciodolares":170
    },
    {
       "codigo":86699699480,
-      "descripcion":"31X10.5R15BF-GOODRICHALLTERRAINKO2",
+      "medida":"31X10.5R15",
+      "modelo":"BF-GOODRICHALLTERRAINKO2",
       "disponible":4,
       "preciodolares":295
    },
    {
       "codigo":51342014514,
-      "descripcion":"31X10.5R15GENERALGRABBERATX6PR109S",
+      "medida":"31X10.5R15",
+      "modelo":"GENERALGRABBERATX6PR109S",
       "disponible":0,
       "preciodolares":215
    },
    {
       "codigo":825019005231,
-      "descripcion":"31X10.5R15SAILUNTERRAMAXH/T109RLT",
+      "medida":"31X10.5R15",
+      "modelo":"SAILUNTERRAMAXH/T109RLT",
       "disponible":0,
       "preciodolares":145
    },
    {
       "codigo":"3110.5R15FDAT",
-      "descripcion":"31X10.5R15FIRESTONEDESTINATIONA
-
-/T",
+      "medida":"31X10.5R15",
+      "modelo":"FIRESTONEDESTINATIONA/T",
       "disponible":0,
       "preciodolares":175
    },
    {
       "codigo":"3110.5R15F23",
-      "descripcion":"31X10.5R15FIRESTONE23ATX",
+      "medida":"31X10.5R15",
+      "modelo":"FIRESTONE23ATX",
       "disponible":0,
       "preciodolares":200
    },
    {
       "codigo":8808956152284,
-      "descripcion":"31X10.5R15KUMHOROADVENTUREAT516PRLT",
+      "medida":"31X10.5R15",
+      "modelo":"KUMHOROADVENTUREAT516PRLT",
       "disponible":7,
       "preciodolares":150
    },
    {
       "codigo":888135000016,
-      "descripcion":"31X10.5R15TRIANGLETR2466PR109Q",
+      "medida":"31X10.5R15",
+      "modelo":"TRIANGLETR2466PR109Q",
       "disponible":0,
       "preciodolares":145
    },
    {
       "codigo":8808956152321,
-      "descripcion":"32X11.5R15KUHMOROADVENTUREAT51113R",
+      "medida":"32X11.5R15",
+      "modelo":"KUHMOROADVENTUREAT51113R",
       "disponible":0,
       "preciodolares":180
    },
    {
       "codigo":8808956152307,
-      "descripcion":"33X12.5R15KUMHOROADVENTUREAT51",
+      "medida":"33X12.5R15",
+      "modelo":"KUMHOROADVENTUREAT51",
       "disponible":2,
       "preciodolares":240
    },
    {
       "codigo":8808956161996,
-      "descripcion":"33X12.5R15KUMHOROADVENTUREMT51LT",
+      "medida":"33X12.5R15",
+      "modelo":"KUMHOROADVENTUREMT51LT",
       "disponible":4,
       "preciodolares":240
    },
    {
       "codigo":29142845225,
-      "descripcion":"33X12.5R15MASTERCRAFTCOURSERCXT108Q",
+      "medida":"33X12.5R15",
+      "modelo":"MASTERCRAFTCOURSERCXT108Q",
       "disponible":0,
       "preciodolares":335
    },
    {
       "codigo":888135000542,
-      "descripcion":"7.00R15TRIANGLETR60410PRLT",
+      "medida":"7.00R15",
+      "modelo":"TRIANGLETR60410PRLT",
       "disponible":1,
       "preciodolares":160
    },
    {
       "codigo":8808956148379,
-      "descripcion":"195/50R16KUMHOECOWING84H",
+      "medida":"195/50R16",
+      "modelo":"KUMHOECOWING84H",
       "disponible":0,
       "preciodolares":90
    },
    {
       "codigo":51342119158,
-      "descripcion":"195/55R16CONTINENTALCONTIPRO86H",
+      "medida":"195/55R16",
+      "modelo":"CONTINENTALCONTIPRO86H",
       "disponible":0,
       "preciodolares":95
    },
    {
       "codigo":3923400,
-      "descripcion":"195/60R16PIRELLICINTURATOP189H",
+      "medida":"195/60R16",
+      "modelo":"PIRELLICINTURATOP189H",
       "disponible":10,
       "preciodolares":130
    },
    {
       "codigo":6900532135314,
-      "descripcion":"205/50ZR16LANDSAILLS38887W",
+      "medida":"205/50ZR16",
+      "modelo":"LANDSAILLS38887W",
       "disponible":0,
       "preciodolares":75
    },
    {
       "codigo":888135003352,
-      "descripcion":"205/55R16TRIANGLETR96891H",
+      "medida":"205/55R16",
+      "modelo":"TRIANGLETR96891H",
       "disponible":0,
       "preciodolares":85
    },
    {
       "codigo":51342184330,
-      "descripcion":"205/55R16CONTINENTALPOWERCONTACT291H",
+      "medida":"205/55R16",
+      "modelo":"CONTINENTALPOWERCONTACT291H",
       "disponible":1,
       "preciodolares":105
    },
    {
       "codigo":51342201846,
-      "descripcion":"205/55R16CONTINENTALPREMIUMCONTACT691V",
+      "medida":"205/55R16",
+      "modelo":"CONTINENTALPREMIUMCONTACT691V",
       "disponible":0,
       "preciodolares":90
    },
    {
       "codigo":51342179152,
-      "descripcion":"205/55R16GENERALG-MAX",
+      "medida":"205/55R16",
+      "modelo":"GENERALG-MAX",
       "disponible":0,
       "preciodolares":105
    },
    {
       "codigo":8808956152666,
-      "descripcion":"205/55R16KUMHOECSTAHS5191V",
+      "medida":"205/55R16",
+      "modelo":"KUMHOECSTAHS5191V",
       "disponible":3,
       "preciodolares":75
    },
    {
       "codigo":2422500,
-      "descripcion":"205/55R16PIRELLICINTURATOP791V",
+      "medida":"205/55R16",
+      "modelo":"PIRELLICINTURATOP791V",
       "disponible":0,
       "preciodolares":90
    },
    {
       "codigo":3937600,
-      "descripcion":"205/55R16PIRELLICINTURATOP191V",
+      "medida":"205/55R16",
+      "modelo":"PIRELLICINTURATOP191V",
       "disponible":1,
       "preciodolares":110
    },
    {
       "codigo":5900532302472,
-      "descripcion":"205/55ZR16FUJISAKIFJ60094WXL",
+      "medida":"205/55ZR16",
+      "modelo":"FUJISAKIFJ60094WXL",
       "disponible":2,
       "preciodolares":85
    },
    {
       "codigo":"20555R16FIFH",
-      "descripcion":"205/55R16FIRESTONEFIREHAWKV970",
+      "medida":"205/55R16",
+      "modelo":"FIRESTONEFIREHAWKV970",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":3528707773869,
-      "descripcion":"205/55R16MICHELINPRIMACY491V",
+      "medida":"205/55R16",
+      "modelo":"MICHELINPRIMACY491V",
       "disponible":1,
       "preciodolares":125
    },
    {
       "codigo":51342011360,
-      "descripcion":"205/60R16CONTINENTALCONTIPOWERCONTACT92H",
+      "medida":"205/60R16",
+      "modelo":"CONTINENTALCONTIPOWERCONTACT92H",
       "disponible":0,
       "preciodolares":105
    },
    {
       "codigo":51342201570,
-      "descripcion":"205/60R16CONTINENTALPOWERCONTACT292V",
+      "medida":"205/60R16",
+      "modelo":"CONTINENTALPOWERCONTACT292V",
       "disponible":1,
       "preciodolares":110
    },
    {
       "codigo":8808956099947,
-      "descripcion":"205/65R16KUMHOSOLUSKH1795H",
+      "medida":"205/65R16",
+      "modelo":"KUMHOSOLUSKH1795H",
       "disponible":1,
       "preciodolares":100
    },
    {
       "codigo":51342183418,
-      "descripcion":"205/75R16CONTINENTALVANCONTACTAP",
+      "medida":"205/75R16",
+      "modelo":"CONTINENTALVANCONTACTAP",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":8808956168957,
-      "descripcion":"215/55ZR16KUMHOECSTAHS5193W",
+      "medida":"215/55ZR16",
+      "modelo":"KUMHOECSTAHS5193W",
       "disponible":1,
       "preciodolares":110
    },
    {
       "codigo":51342206872,
-      "descripcion":"215/60R16CONTINENTALPOWERCONTACT295V",
+
+
+      "medida":"215/60R16",
+      "modelo":"CONTINENTALPOWERCONTACT295V",
       "disponible":1,
       "preciodolares":115
    },
    {
       "codigo":51342206964,
-      "descripcion":"215/65R16CONTINENTALCROSSCONTACTATR98H",
+      "medida":"215/65R16",
+      "modelo":"CONTINENTALCROSSCONTACTATR98H",
       "disponible":0,
       "preciodolares":135
    },
    {
       "codigo":8808956269364,
-      "descripcion":"215/65R16KUMHOECOWINGES3198H",
+      "medida":"215/65R16",
+      "modelo":"KUMHOECOWINGES3198H",
       "disponible":21,
       "preciodolares":100
    },
    {
       "codigo":6959753218887,
-      "descripcion":"216/65R16TRIANGLETR257102V",
+      "medida":"216/65R16",
+      "modelo":"TRIANGLETR257102V",
       "disponible":1,
       "preciodolares":110
    },
    {
       "codigo":"21565R16FDHT",
-      "descripcion":"215/65R16FIRESTONEDESTINATIONHT",
+      "medida":"215/65R16",
+      "modelo":"FIRESTONEDESTINATIONHT",
       "disponible":1,
       "preciodolares":135
    },
    {
       "codigo":6959753215503,
-      "descripcion":"215/65R16TRIANGLETR978102H",
+      "medida":"215/65R16",
+      "modelo":"TRIANGLETR978102H",
       "disponible":4,
       "preciodolares":110
    },
    {
       "codigo":3528708894747,
-      "descripcion":"215/65R16MICHELINPRIMACY4102H",
+      "medida":"215/65R16",
+      "modelo":"MICHELINPRIMACY4102H",
       "disponible":0,
       "preciodolares":205
    },
    {
       "codigo":2815100,
-      "descripcion":"215/65R16PIRELLISCORPIONVERDE102HXLS",
+      "medida":"215/65R16",
+      "modelo":"PIRELLISCORPIONVERDE102HXLS",
       "disponible":2,
       "preciodolares":140
    },
    {
       "codigo":"21575R16CTR652",
-      "descripcion":"215/75R16CTRIANGLETR-652116/145S",
+      "medida":"215/75R16",
+      "modelo":"CTRIANGLETR-652116/145S",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":2009000,
-      "descripcion":"225/50R16PIRELLICINTURATOP792W",
+      "medida":"225/50R16",
+      "modelo":"PIRELLICINTURATOP792W",
       "disponible":0,
       "preciodolares":220
    },
    {
       "codigo":8808956148294,
-      "descripcion":"225/70R16KUMHOECOWINGES01KH27103H",
+      "medida":"225/70R16",
+      "modelo":"KUMHOECOWINGES01KH27103H",
       "disponible":0,
       "preciodolares":130
    },
    {
       "codigo":86699375278,
-      "descripcion":"225/75R16BF-GOODRICHKO2",
+      "medida":"225/75R16",
+      "modelo":"BF-GOODRICHKO2",
       "disponible":1,
       "preciodolares":280
    },
    {
       "codigo":51342224562,
-      "descripcion":"225/75R16GENERALGRABBERA/TX108TXL",
+      "medida":"225/75R16",
+      "modelo":"GENERALGRABBERA/TX108TXL",
       "disponible":0,
       "preciodolares":215
    },
    {
       "codigo":51342224500,
-      "descripcion":"235/60R16GENERALGRABBERA/TX100T",
+      "medida":"235/60R16",
+      "modelo":"GENERALGRABBERA/TX100T",
       "disponible":4,
-      "preciod
-
-olares":170
+      "preciodolares":170
    },
    {
       "codigo":6959655417074,
-      "descripcion":"235/60R16SAILUNATREZZOELITE100W",
+      "medida":"235/60R16",
+      "modelo":"SAILUNATREZZOELITE100W",
       "disponible":6,
       "preciodolares":100
    },
    {
       "codigo":51342208029,
-      "descripcion":"235/60R16CONTINENTALCROSSCONTACTLX25100T",
+      "medida":"235/60R16",
+      "modelo":"CONTINENTALCROSSCONTACTLX25100T",
       "disponible":0,
       "preciodolares":155
    },
    {
       "codigo":888135016543,
-      "descripcion":"235/60R16TRIANGLETR978100H",
+      "medida":"235/60R16",
+      "modelo":"TRIANGLETR978100H",
       "disponible":0,
       "preciodolares":115
    },
    {
       "codigo":8808956153458,
-      "descripcion":"235/60R16KUMHOECSTAHS51104V",
+      "medida":"235/60R16",
+      "modelo":"KUMHOECSTAHS51104V",
       "disponible":12,
       "preciodolares":115
    },
    {
       "codigo":"23560R16FDHT",
-      "descripcion":"235/60R16FIRESTONEDESTINATIONHT",
+      "medida":"235/60R16",
+      "modelo":"FIRESTONEDESTINATIONHT",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":6959655409079,
-      "descripcion":"235/65R16SAILUNATREZZOSH-402",
+      "medida":"235/65R16",
+      "modelo":"SAILUNATREZZOSH-402",
       "disponible":0,
       "preciodolares":115
    },
    {
       "codigo":8808956155995,
-      "descripcion":"235/70R16KUMHOROADVENTUREAT51104T",
+      "medida":"235/70R16",
+      "modelo":"KUMHOROADVENTUREAT51104T",
       "disponible":6,
       "preciodolares":155
    },
    {
       "codigo":86699288554,
-      "descripcion":"245/70R16BF-GOODRICHKO2A/T",
+      "medida":"245/70R16",
+      "modelo":"BF-GOODRICHKO2A/T",
       "disponible":0,
       "preciodolares":365
    },
    {
       "codigo":51342191369,
-      "descripcion":"245/70R16CONTINENTALTERRAINCONTACTAT50107S",
+      "medida":"245/70R16",
+      "modelo":"CONTINENTALTERRAINCONTACTAT50107S",
       "disponible":0,
       "preciodolares":170
    },
    {
       "codigo":8808956318130,
-      "descripcion":"245/70R16KUMHOROADVENTUREAT51XL",
+      "medida":"245/70R16",
+      "modelo":"KUMHOROADVENTUREAT51XL",
       "disponible":0,
       "preciodolares":170
    },
    {
       "codigo":828314343169,
-      "descripcion":"245/70R16SAILUNTERRAMAXCVR111HXL",
+      "medida":"245/70R16",
+      "modelo":"SAILUNTERRAMAXCVR111HXL",
       "disponible":9,
       "preciodolares":115
    },
    {
       "codigo":8808956156039,
-      "descripcion":"245/75R16KUMHOROADVENTUREAT51109T",
+      "medida":"245/75R16",
+      "modelo":"KUMHOROADVENTUREAT51109T",
       "disponible":0,
       "preciodolares":125
    },
    {
       "codigo":6959655420470,
-      "descripcion":"245/75R16SAILUNTERRAMAXA/T111S",
+      "medida":"245/75R16",
+      "modelo":"SAILUNTERRAMAXA/T111S",
       "disponible":1,
       "preciodolares":145
    },
    {
       "codigo":825018214436,
-      "descripcion":"245/75R16SAILUNTERRAMAXH/T",
+      "medida":"245/75R16",
+      "modelo":"SAILUNTERRAMAXH/T",
       "disponible":1,
       "preciodolares":150
    },
    {
       "codigo":51342192182,
-      "descripcion":"245/75R16GENERALGRABBERA/TX10PR",
+      "medida":"245/75R16",
+      "modelo":"GENERALGRABBERA/TX10PR",
       "disponible":0,
       "preciodolares":180
    },
    {
       "codigo":"24575R16FIDT",
-      "descripcion":"245/75R16FIRESTONEDESTINATION",
+      "medida":"245/75R16",
+      "modelo":"FIRESTONEDESTINATION",
       "disponible":4,
       "preciodolares":190
    },
    {
       "codigo":"25570R16FDAT",
-      "descripcion":"255/70R16FIRESTONEDESTINATIONA/T",
+      "medida":"255/70R16",
+      "modelo":"FIRESTONEDESTINATIONA/T",
       "disponible":0,
       "preciodolares":190
    },
    {
       "codigo":51342224548,
-      "descripcion":"255/70R16GENERALGRABBERA/TX111S",
+      "medida":"255/70R16",
+      "modelo":"GENERALGRABBERA/TX111S",
       "disponible":0,
       "preciodolares":210
    },
    {
       "codigo":51342013357,
-      "descripcion":"255/70R16CONTINENTALTERRAINCONTACTAT50",
+      "medida":"255/70R16",
+      "modelo":"CONTINENTALTERRAINCONTACTAT50",
       "disponible":8,
       "preciodolares":185
    },
    {
       "codigo":8808956318116,
-      "descripcion":"255/70R16KUMHOROADVENTUREAT51109T",
+      "medida":"255/70R16",
+      "modelo":"KUMHOROADVENTUREAT51109T",
       "disponible":0,
       "preciodolares":185
    },
    {
       "codigo":4981910876380,
-      "descripcion":"255/85R16TOYOOPENCOUNTRYM/T10PRLT",
+      "medida":"255/85R16",
+      "modelo":"TOYOOPENCOUNTRYM/T10PRLT",
       "disponible":0,
       "preciodolares":465
    },
    {
       "codigo":51342224555,
-      "descripcion":"265/70R16GENERALGRABBERA/TX112S",
+      "medida":"265/70R16",
+      "modelo":"GENERALGRABBERA/TX112S",
       "disponible":4,
       "preciodolares":210
    },
    {
       "codigo":8808956318154,
-      "descripcion":"265/70R16KUMHOROADVENTUREAT51",
+      "medida":"265/70R16",
+      "modelo":"KUMHOROADVENTUREAT51",
       "disponible":0,
       "preciodolares":160
+
+
    },
    {
       "codigo":51342182244,
-      "descripcion":"265/75R16GENERALGRABBERX36PR112/109Q",
+      "medida":"265/75R16",
+      "modelo":"GENERALGRABBERX36PR112/109Q",
       "disponible":0,
       "preciodolares":295
    },
    {
       "codigo":8808956066291,
-      "descripcion":"265/75R16KUMHOROADVENTUREMTKL71",
+      "medida":"265/75R16",
+      "modelo":"KUMHOROADVENTUREMTKL71",
       "disponible":12,
       "preciodolares":200
    },
    {
       "codigo":4717784351346,
-      "descripcion":"265/75R16MAXXISRAZRAT-81110PR123/120R",
+      "medida":"265/75R16",
+      "modelo":"MAXXISRAZRAT-81110PR123/120R",
       "disponible":0,
       "preciodolares":260
    },
    {
       "codigo":787025500271,
-      "descripcion":"265/75R16MICKEYTHOMPSONBAJALEGENDEXP10PR",
+      "medida":"265/75R16",
+      "modelo":"MICKEYTHOMPSONBAJALEGENDEXP10PR",
       "disponible":8,
       "preciodolares":337.5
    },
    {
       "codigo":787025488272,
-      "descripcion":"265/75R16MICKEYTHOMPSONBAJAMTZP3",
+      "medida":"265/75R16",
+      "modelo":"MICKEYTHOMPSONBAJAMTZP3",
       "disponible":0,
       "preciodolares":360
    },
    {
       "codigo":"26575R16BFGAVT",
-      "descripcion":"265/75R16BF-GOODRICHADVANTAGEA/T",
+      "medida":"265/75R16",
+      "modelo":"BF-GOODRICHADVANTAGEA/T",
       "disponible":0,
       "preciodolares":350
    },
    {
       "codigo":86699671790,
-      "descripcion":"265/75R16BF-GOODRICHKO2A/T",
+      "medida":"265/75R16",
+      "modelo":"BF-GOODRICHKO2A/T",
       "disponible":2,
       "preciodolares":378
    },
    {
       "codigo":29142888161,
-      "descripcion":"265/75R16MASTERCRAFT",
+      "medida":"265/75R16",
+      "modelo":"MASTERCRAFT",
       "disponible":0,
       "preciodolares":275
    },
    {
       "codigo":8808956318093,
-      "descripcion":"265/75R16KUMHOROADVENTUREAT51114T",
+      "medida":"265/75R16",
+      "modelo":"KUMHOROADVENTUREAT51114T",
       "disponible":25,
       "preciodolares":180
    },
    {
       "codigo":"26575R16FDAT",
-      "descripcion":"265/75R16FIRESTONEDESTINATIONA/T",
+      "medida":"265/75R16",
+      "modelo":"FIRESTONEDESTINATIONA/T",
       "disponible":0,
       "preciodolares":220
    },
    {
       "codigo":8808956069087,
-      "descripcion":"275/70R16KUMHOROADVENTUREAPTKL-51",
+      "medida":"275/70R16",
+      "modelo":"KUMHOROADVENTUREAPTKL-51",
       "disponible":4,
       "preciodolares":185
    },
    {
       "codigo":86699376183,
-      "descripcion":"285/75R16BF-GOODRICHKM3",
+      "medida":"285/75R16",
+      "modelo":"BF-GOODRICHKM3",
       "disponible":0,
       "preciodolares":395
    },
    {
       "codigo":5900532302274,
-      "descripcion":"285/75R16FUJISAKIFJ-10LT",
+      "medida":"285/75R16",
+      "modelo":"FUJISAKIFJ-10LT",
       "disponible":0,
       "preciodolares":275
    },
    {
       "codigo":51342192205,
-      "descripcion":"285/75R16GENERALGRABBERA/TX10PR",
+      "medida":"285/75R16",
+      "modelo":"GENERALGRABBERA/TX10PR",
       "disponible":0,
       "preciodolares":325
    },
    {
       "codigo":8808956159313,
-      "descripcion":"285/75R16KUMHOROADVENTUREQ10MT51",
+      "medida":"285/75R16",
+      "modelo":"KUMHOROADVENTUREQ10MT51",
       "disponible":9,
       "preciodolares":220
    },
    {
       "codigo":8808956273385,
-      "descripcion":"285/75R16KUMHOROADADVENTUREMT71123Q",
+      "medida":"285/75R16",
+      "modelo":"KUMHOROADADVENTUREMT71123Q",
       "disponible":4,
       "preciodolares":260
    },
    {
       "codigo":4717784323329,
-      "descripcion":"285/75R16MAXXISMT-76410PR126/123Q",
+      "medida":"285/75R16",
+      "modelo":"MAXXISMT-76410PR126/123Q",
       "disponible":0,
       "preciodolares":265
    },
    {
       "codigo":787025500288,
-      "descripcion":"285/75R16MICKEYTHOMPSONBA
-
-JALENGENDEXP10PRLT",
+      "medida":"285/75R16",
+      "modelo":"MICKEYTHOMPSONBAJALENGENDEXP10PRLT",
       "disponible":2,
       "preciodolares":350
    },
    {
       "codigo":787025499575,
-      "descripcion":"285/75R16MICKEYTHOMPSONMTZ10PRLT",
+      "medida":"285/75R16",
+      "modelo":"MICKEYTHOMPSONMTZ10PRLT",
       "disponible":0,
       "preciodolares":390
    },
    {
       "codigo":4981910526629,
-      "descripcion":"285/75R16TOYOOPENCOUNTRYA/TIIILT126R",
+      "medida":"285/75R16",
+      "modelo":"TOYOOPENCOUNTRYA/TIIILT126R",
       "disponible":4,
       "preciodolares":327.5
    },
    {
       "codigo":8808956150570,
-      "descripcion":"285/75R16KUMHOROADVENTUREAT5110PRLT",
+      "medida":"285/75R16",
+      "modelo":"KUMHOROADVENTUREAT5110PRLT",
       "disponible":8,
       "preciodolares":210
    },
    {
       "codigo":8808956152345,
-      "descripcion":"305/70R16KUMHOROADVENTUREAT-51LT",
+      "medida":"305/70R16",
+      "modelo":"KUMHOROADVENTUREAT-51LT",
       "disponible":4,
       "preciodolares":330
    },
    {
       "codigo":51342192212,
-      "descripcion":"315/75R16GENERALGRABBERATX10PR",
+      "medida":"315/75R16",
+      "modelo":"GENERALGRABBERATX10PR",
       "disponible":0,
       "preciodolares":320
    },
    {
       "codigo":"315/75R16GENEM",
-      "descripcion":"315/75R16GENERALGRABBERMTX3LT",
+      "medida":"315/75R16",
+      "modelo":"GENERALGRABBERMTX3LT",
       "disponible":0,
       "preciodolares":430
    },
    {
       "codigo":4717784341873,
-      "descripcion":"315/75R16MAXXISMUDDERIIMT-76410PRRBL",
+      "medida":"315/75R16",
+      "modelo":"MAXXISMUDDERIIMT-76410PRRBL",
       "disponible":0,
       "preciodolares":375
    },
    {
       "codigo":4717784294018,
-      "descripcion":"315/75R16MAXXISBRAVOAT-7718PROWL",
+      "medida":"315/75R16",
+      "modelo":"MAXXISBRAVOAT-7718PROWL",
       "disponible":0,
       "preciodolares":275
    },
    {
       "codigo":787025496956,
-      "descripcion":"315/75R16MICKEYTHOMPSONBAJABOSSMTBW",
+      "medida":"315/75R16",
+      "modelo":"MICKEYTHOMPSONBAJABOSSMTBW",
       "disponible":0,
       "preciodolares":462.5
    },
    {
       "codigo":787025499599,
-      "descripcion":"315/75R16MICKEYTHOMPSONBAJALEGENDMTZ10PRLT",
+      "medida":"315/75R16",
+      "modelo":"MICKEYTHOMPSONBAJALEGENDMTZ10PRLT",
       "disponible":0,
       "preciodolares":475
    },
    {
       "codigo":8808956150556,
-      "descripcion":"315/75R16KUMHOROADVENTUREAT51LT",
+      "medida":"315/75R16",
+      "modelo":"KUMHOROADVENTUREAT51LT",
       "disponible":12,
       "preciodolares":300
    },
    {
       "codigo":8808956238841,
-      "descripcion":"315/75R16KUMHOROADVENTUREMT51",
+      "medida":"315/75R16",
+      "modelo":"KUMHOROADVENTUREMT51",
       "disponible":0,
       "preciodolares":290
    },
    {
       "codigo":8808956273439,
-      "descripcion":"315/75R16KUMHOROADVENTUREMT71127/124Q",
+      "medida":"315/75R16",
+      "modelo":"KUMHOROADVENTUREMT71127/124Q",
       "disponible":0,
       "preciodolares":320
    },
    {
       "codigo":"7.50R16FR800",
-      "descripcion":"7.50R16FUJISAKIFR80014PR",
+      "medida":"7.50R16",
+      "modelo":"FUJISAKIFR80014PR",
       "disponible":6,
       "preciodolares":165
    },
    {
       "codigo":"7.50R16FR803",
-      "descripcion":"7.50R16FUJISAKIFR80314PR",
+      "medida":"7.50R16",
+      "modelo":"FUJISAKIFR80314PR",
       "disponible":0,
       "preciodolares":190
    },
    {
       "codigo":888135000597,
-      "descripcion":"7.50R16TRIANGLETR62414PRC/SET",
+      "medida":"7.50R16",
+      "modelo":"TRIANGLETR62414PRC/SET",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":"750R16FTRA",
-      "descripcion":"7.50R16FIRESTONESUPERALLTRACTION",
+      "medida":"7.50R16",
+      "modelo":"FIRESTONESUPERALLTRACTION",
       "disponible":0,
       "preciodolares":120
    },
    {
       "codigo":888135009040,
-      "descripcion":"7.50R16TRIANGLETR668MIXTOS/SET14PR",
+      "medida":"7.50R16",
+      "modelo":"TRIANGLETR
+
+668MIXTOS/SET14PR",
       "disponible":0,
       "preciodolares":190
    },
    {
       "codigo":"750R16FSHO",
-      "descripcion":"7.50R16FIRESTONESHOGUN",
+      "medida":"7.50R16",
+      "modelo":"FIRESTONESHOGUN",
       "disponible":5,
       "preciodolares":210
    },
    {
       "codigo":"750R16FDS",
-      "descripcion":"7.50R16FIRESTONEDESTINATION",
+      "medida":"7.50R16",
+      "modelo":"FIRESTONEDESTINATION",
       "disponible":0,
       "preciodolares":195
    },
    {
       "codigo":6959655424089,
-      "descripcion":"7.50R16SAILUNEXTMILRSL16122/118N",
+      "medida":"7.50R16",
+      "modelo":"SAILUNEXTMILRSL16122/118N",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":"SETTRI/PRO7.5",
-      "descripcion":"SETTRIPA/PROTECTOR7.50R16COUGAR",
+      "medida":"SETTRIPA/PROTECTOR7.50R16",
+      "modelo":"COUGAR",
       "disponible":0,
       "preciodolares":20
    },
    {
       "codigo":"TR-177A",
-      "descripcion":"7.50R16TR-117ATRIPAFUJISAKI",
+      "medida":"7.50R16",
+      "modelo":"TRIPAFUJISAKI",
       "disponible":30,
       "preciodolares":20
    },
    {
       "codigo":"8.25R16FM802",
-      "descripcion":"8.25R16FUJISAKIFM802C/SET16PR",
+      "medida":"8.25R16",
+      "modelo":"FUJISAKIFM802C/SET16PR",
       "disponible":2,
       "preciodolares":250
    },
    {
       "codigo":8808956278076,
-      "descripcion":"205/40ZR17KUMHOECSTAPS31XL",
+      "medida":"205/40ZR17",
+      "modelo":"KUMHOECSTAPS31XL",
       "disponible":0,
       "preciodolares":115
    },
    {
       "codigo":"20550R17TR968",
-      "descripcion":"205/50R17TRIANGLETR96889V",
+      "medida":"205/50R17",
+      "modelo":"TRIANGLETR96889V",
       "disponible":0,
       "preciodolares":85
    },
    {
       "codigo":6959655401158,
-      "descripcion":"205/50ZR17SAILUNATREZZOZSRXL93W",
+      "medida":"205/50ZR17",
+      "modelo":"SAILUNATREZZOZSRXL93W",
       "disponible":2,
       "preciodolares":85
    },
    {
       "codigo":51342207893,
-      "descripcion":"215/45R17GENERALG-MAX91VXL",
+      "medida":"215/45R17",
+      "modelo":"GENERALG-MAX91VXL",
       "disponible":2,
       "preciodolares":145
    },
    {
       "codigo":8808956166830,
-      "descripcion":"215/45ZR17KUMHOECSTAPS7191YXL",
+      "medida":"215/45ZR17",
+      "modelo":"KUMHOECSTAPS7191YXL",
       "disponible":0,
       "preciodolares":130
    },
    {
       "codigo":8808956152697,
-      "descripcion":"215/45ZR17KUMHOECSTAHS5191WXL",
+      "medida":"215/45ZR17",
+      "modelo":"KUMHOECSTAHS5191WXL",
       "disponible":12,
       "preciodolares":130
    },
    {
       "codigo":2620700,
-      "descripcion":"215/50R17PIRELLICINTURATOP791V",
+      "medida":"215/50R17",
+      "modelo":"PIRELLICINTURATOP791V",
       "disponible":0,
       "preciodolares":135
    },
    {
       "codigo":888135002362,
-      "descripcion":"215/55R17TRIANGLETR91894V",
+      "medida":"215/55R17",
+      "modelo":"TRIANGLETR91894V",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":888135003482,
-      "descripcion":"215/55R17TRIANGLETR96898V",
+      "medida":"215/55R17",
+      "modelo":"TRIANGLETR96898V",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":8808956153427,
-      "descripcion":"215/55ZR17KUMHOECSTAHS5194W",
+      "medida":"215/55ZR17",
+      "modelo":"KUMHOECSTAHS5194W",
       "disponible":1,
       "preciodolares":130
    },
    {
       "codigo":51342206919,
-      "descripcion":"215/60R17CONTINENTALPOWERCONTACT296H",
+      "medida":"215/60R17",
+      "modelo":"CONTINENTALPOWERCONTACT296H",
       "disponible":11,
       "preciodolares":160
    },
    {
       "codigo":6959655436792,
-      "descripcion":"215/60R17SAILUNATREZZOELITE96V",
+      "medida":"215/60R17",
+      "modelo":"SAILUNATREZZOELITE96V",
       "disponible":1,
       "preciodolares":100
    },
    {
       "codigo":888135000221,
-      "descripcion":"215/60R17TRIANGLETR257LIGHTTRUCK",
+      "medida":"215/60R17",
+      "modelo":"TRIANGLETR257LIGHTTRUCK",
       "disponible":0,
       "preciodolares":110
    },
    {
       "codigo":"21560R17FIFH",
-      "descripcion":"215/60R17FIRESTONEFIREHAWK",
+      "medida":"215/60R17",
+      "modelo":"FIRESTONEFIREHAWK",
       "disponible":0,
       "preciodolares":125
    },
    {
       "codigo":51342207909,
-      "descripcion":"225/45R17GENERALG-MAXRS94VXL",
+      "medida":"225/45R17",
+      "modelo":"GENERALG-MAXRS94VXL",
       "disponible":0,
       "preciodolares":120
    },
    {
       "codigo":8808956166847,
-      "descripcion":"225/45ZR17KUMHOECSTAPS7194YXL",
+      "medida":"225/45ZR17",
+      "modelo":"KUMHOECSTAPS7194YXL",
       "disponible":18,
-     
-
- "preciodolares":160
+      "preciodolares":160
    },
    {
       "codigo":2005800,
-      "descripcion":"225/45R17PIRELLICINTURATOP7RUNFLAT91W",
+      "medida":"225/45R17",
+      "modelo":"PIRELLICINTURATOP7RUNFLAT91W",
       "disponible":4,
       "preciodolares":280
    },
    {
       "codigo":4981910788867,
-      "descripcion":"225/45ZR17TOYOTUBELESSPXSP94Y",
+      "medida":"225/45ZR17",
+      "modelo":"TOYOTUBELESSPXSP94Y",
       "disponible":0,
       "preciodolares":185
    },
    {
       "codigo":3528701945606,
-      "descripcion":"225/45R17MICHELINPRIMACY494W",
+      "medida":"225/45R17",
+      "modelo":"MICHELINPRIMACY494W",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":2916600,
-      "descripcion":"225/45R17PIRELLICINTURATOP194WXL",
+      "medida":"225/45R17",
+      "modelo":"PIRELLICINTURATOP194WXL",
       "disponible":2,
       "preciodolares":100
    },
    {
       "codigo":"32302410200ZE",
-      "descripcion":"225/50R17DUNLOPMAX0.50",
+      "medida":"225/50R17",
+      "modelo":"DUNLOPMAX0.50",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":2916700,
-      "descripcion":"225/50R17PIRELLICINTURATOP198VXL",
+      "medida":"225/50R17",
+      "modelo":"PIRELLICINTURATOP198VXL",
       "disponible":0,
       "preciodolares":165
    },
    {
       "codigo":8808956276850,
-      "descripcion":"225/50ZR17KUHMOECSTAPS3198W",
+      "medida":"225/50ZR17",
+      "modelo":"KUHMOECSTAPS3198W",
       "disponible":1,
       "preciodolares":150
    },
    {
       "codigo":8808956152710,
-      "descripcion":"225/50ZR17KUHMOECSTAHS5198W",
+      "medida":"225/50ZR17",
+      "modelo":"KUHMOECSTAHS5198W",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":8808956318727,
-      "descripcion":"225/50ZR17KUMHOECSTAHS5298W",
+      "medida":"225/50ZR17",
+      "modelo":"KUMHOECSTAHS5298W",
       "disponible":0,
       "preciodolares":125
    },
    {
       "codigo":51342208050,
-      "descripcion":"225/65R17CONTINENTALCROSSCONTACTLX25",
+      "medida":"225/65R17",
+      "modelo":"CONTINENTALCROSSCONTACTLX25",
       "disponible":0,
       "preciodolares":145
    },
    {
       "codigo":51342203147,
-      "descripcion":"225/65R17CONTINENTALCROSSCONTACTATR102H",
+      "medida":"225/65R17",
+      "modelo":"CONTINENTALCROSSCONTACTATR102H",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":6959655417302,
-      "descripcion":"235/55R17SAILUNATREZZOELITE99V",
+      "medida":"235/55R17",
+      "modelo":"SAILUNATREZZOELITE99V",
       "disponible":1,
       "preciodolares":110
    },
    {
       "codigo":6959655417289,
-      "descripcion":"235/60R17SAILUNATREZZOELITE102V",
+      "medida":"235/60R17",
+      "modelo":"SAILUNATREZZOELITE102V",
       "disponible":12,
       "preciodolares":100
    },
    {
       "codigo":51342198191,
-      "descripcion":"235/60R17CONTINENTALCROSSCONTACTLX25",
+      "medida":"235/60R17",
+      "modelo":"CONTINENTALCROSSCONTACTLX25",
       "disponible":0,
       "preciodolares":165
    },
    {
       "codigo":8808956109844,
-      "descripcion":"235/60R17KUMHOSOLUSKL21102T",
+     
+
+ "medida":"235/60R17",
+      "modelo":"KUMHOSOLUSKL21102T",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":51342224579,
-      "descripcion":"235/65R17GENERALGRABBERATX108TXL",
+      "medida":"235/65R17",
+      "modelo":"GENERALGRABBERATX108TXL",
       "disponible":4,
       "preciodolares":185
    },
    {
       "codigo":6959655420920,
-      "descripcion":"235/80R17SAILUNTERRAMAXA/T10PR120/117R",
+      "medida":"235/80R17",
+      "modelo":"SAILUNTERRAMAXA/T10PR120/117R",
       "disponible":0,
       "preciodolares":160
    },
    {
       "codigo":51342174829,
-      "descripcion":"235/80R17GENERALGRABBERHTS6010PR",
+      "medida":"235/80R17",
+      "modelo":"GENERALGRABBERHTS6010PR",
       "disponible":0,
       "preciodolares":190
    },
    {
       "codigo":8808956154851,
-      "descripcion":"235/80R17KUMHOROADVENTUREAT51LT",
+      "medida":"235/80R17",
+      "modelo":"KUMHOROADVENTUREAT51LT",
       "disponible":0,
       "preciodolares":185
    },
    {
       "codigo":5900532302229,
-      "descripcion":"235/80R17FUJISAKIFJ-10LT",
+      "medida":"235/80R17",
+      "modelo":"FUJISAKIFJ-10LT",
       "disponible":0,
       "preciodolares":175
    },
    {
       "codigo":"245/65R17TRI",
-      "descripcion":"245/65R17TRIANGLETR-968DIRECC99V",
+      "medida":"245/65R17",
+      "modelo":"TRIANGLETR-968DIRECC99V",
       "disponible":0,
       "preciodolares":65
    },
    {
       "codigo":"245/65R17FDVAT",
-      "descripcion":"245/65R17FIRESTONEDESTINATIONVA/T",
+      "medida":"245/65R17",
+      "modelo":"FIRESTONEDESTINATIONVA/T",
       "disponible":0,
       "preciodolares":198
    },
    {
       "codigo":"24565R17KMAT",
-      "descripcion":"245/65R17KUMHOTSLLAT-51",
+      "medida":"245/65R17",
+      "modelo":"KUMHOTSLLAT-51",
       "disponible":0,
       "preciodolares":195
    },
    {
       "codigo":2340900,
-      "descripcion":"245/65R17PIRELLISOCRPIONVERDEALLSEASON111H",
+      "medida":"245/65R17",
+      "modelo":"PIRELLISOCRPIONVERDEALLSEASON111H",
       "disponible":0,
       "preciodolares":230
    },
    {
       "codigo":51342224586,
-      "descripcion":"245/65R17GENERALGRABBERA/TX111T",
+      "medida":"245/65R17",
+      "modelo":"GENERALGRABBERA/TX111T",
       "disponible":4,
       "preciodolares":200
    },
    {
       "codigo":"24565R17BEALLT",
-      "descripcion":"245/65R17BLACKEAGLEALLTRACK",
+      "medida":"245/65R17",
+      "modelo":"BLACKEAGLEALLTRACK",
       "disponible":0,
       "preciodolares":170
    },
    {
       "codigo":2722200,
-      "descripcion":"245/65R17PIRELLISCORPIONA/T+PLUS111T",
+      "medida":"245/65R17",
+      "modelo":"PIRELLISCORPIONA/T+PLUS111T",
       "disponible":4,
       "preciodolares":195
    },
    {
       "codigo":6971901478806,
-      "descripcion":"245/65R17FIREMAXFM501A/T107T",
+      "medida":"245/65R17",
+      "modelo":"FIREMAXFM501A/T107T",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":86699096661,
-      "descripcion":"245/70R17BF-GOODRICHKO2A/T",
+      "medida":"245/70R17",
+      "modelo":"BF-GOODRICHKO2A/T",
       "disponible":12,
       "preciodolares":290
    },
    {
       "codigo":29142932017,
-      "descripcion":"245/70R17MASTERCRAFTSTRATUSAPLT",
+      "medida":"245/70R17",
+      "modelo":"MASTERCRAFTSTRATUSAPLT",
       "disponible":0,
       "preciodolares":225
    },
    {
       "codigo":8808956156077,
-      "descripcion":"245/70R17KUMHOROADVENTUREAT51",
+      "medida":"245/70R17",
+      "modelo":"KUMHOROADVENTUREAT51",
       "disponible":14,
       "preciodolares":150
    },
    {
       "codigo":6959655420906,
-      "descripcion":"245/75R17SAILUNTERRAMAXA/T111S",
+      "medida":"245/75R17",
+      "modelo":"SAILUNTERRAMAXA/T111S",
       "disponible":1,
       "preciodolares":155
    },
    {
       "codigo":86699264701,
-      "descripcion":"245/75R17BF-GOODRICHKO2A/T",
+      "medida":"245/75R17",
+      "modelo":"BF-GOODRICHKO2A/T",
       "disponible":4,
       "preciodolares":325
    },
    {
       "codigo":8808956150716,
-      "descripcion":"245/75R17KUMHOROADVENTUREAT51LT",
+      "medida":"245/75R17",
+      "modelo":"KUMHOROADVENTUREAT51LT",
       "disponible":14,
       "preciodolares":210
    },
    {
       "codigo":8808956270629,
-      "descripcion":"255/70R17KUMHOCRUGENHT51112T",
+      "medida":"255/70R17",
+      "modelo":"KUMHOCRUGENHT51112T",
       "disponible":10,
       "preciodolares":145
    },
    {
       "codigo":6959655420517,
-      "descripcion":"265/65R17SAILUNTERRAMAXA/T112S",
+      "medida":"265/65R17",
+      "modelo":"SAILUNTERRAMAXA/T112S",
       "disponible":0,
       "preciodolares":150
    },
    {
       "codigo":51342208043,
-      "descripcion":"265/65R17CONTINENTALCROSSCONTACTLX25",
+      "medida":"265/65R17",
+      "modelo":"CONTINENTALCROSSCONTACTLX25",
       "disponible":4,
       "preciodolares":210
    },
    {
       "codigo":"26565R17TRAT292",
-      "descripcion":"265/65R17TRIANGLETR292A/T112S",
+      "medida":"265/65R17",
+      "modelo":"TRIANGLETR292A/T112S",
       "disponible":0,
       "preciodolares":140
    },
    {
       "codigo":"26565R17FDVAT",
-      "descripcion":"265/65R17FIRESTONEDESTINATIONHT",
+      "medida":"265/65R17",
+      "modelo":"FIRESTONEDESTINATIONHT",
       "disponible":0,
       "preciodolares":200
    },
    {
       "codigo":51342213221,
-      "descripcion":"265/65R17GENERALGRABBERL/WTA/TX112T",
+      "medida":"265/65R17",
+      "modelo":"GENERALGRABBERL/WTA/TX112T",
       "disponible":0,
       "preciodolares":220
    },
    {
       "codigo":8808956220617,
-      "descripcion":"265/65R17KUMHOROADVENTURE
-
-AT51112T",
+      "medida":"265/65R17",
+      "modelo":"KUMHOROADVENTUREAT51112T",
       "disponible":4,
       "preciodolares":170
    },
    {
       "codigo":3964200,
-      "descripcion":"265/65R17PIRELLISCORPIONATR112S",
+      "medida":"265/65R17",
+      "modelo":"PIRELLISCORPIONATR112S",
       "disponible":2,
       "preciodolares":200
    },
    {
       "codigo":3528701696393,
-      "descripcion":"265/65R17MICHELINXLTA/S112T",
+      "medida":"265/65R17",
+      "modelo":"MICHELINXLTA/S112T",
       "disponible":0,
       "preciodolares":280
    },
    {
       "codigo":866699568274,
-      "descripcion":"265/65R17BF-GOODRICHKO2A/T",
+      "medida":"265/65R17",
+      "modelo":"BF-GOODRICHKO2A/T",
       "disponible":0,
       "preciodolares":295
    }
