@@ -516,9 +516,7 @@
       "codigo":8808956150532,
       "medida":"235/75R15",
       "modelo":"KUMHOROADVENTUREAT51LT",
-      "dispon
-
-ible":1,
+      "disponible":1,
       "preciodolares":110
    },
    {
@@ -1284,9 +1282,7 @@ ible":1,
    {
       "codigo":888135009040,
       "medida":"7.50R16",
-      "modelo":"TRIANGLETR
-
-668MIXTOS/SET14PR",
+      "modelo":"TRIANGLETR668MIXTOS/SET14PR",
       "disponible":0,
       "preciodolares":190
    },
